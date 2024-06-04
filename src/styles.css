@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files
+
+  "styles: {
+
+  "src/styles.scss"}
+
+"scripts": [
+  "node_modules/jquery/dist/jquery.min.js",
+  "node_modules/@popperjs/core/dist/umd/popper.min.js",
+  "node_modules/bootstrap/dist/js/bootstrap.min.js"
+]
+}
+*
+7
+*/
